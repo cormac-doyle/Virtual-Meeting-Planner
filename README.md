@@ -1,7 +1,5 @@
 # Group2-Android
 
-## Project website:
-**https://can-zhou.github.io/3D5B/**
 ## Group members:
 Can, Cormac, Malay, Rohan, Shrey, Tom, Ujjawal, Vishant
 
